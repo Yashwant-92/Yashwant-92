@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **AWS, Docker**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yashwantgadkarportfinal.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yashwantgadkar-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java Full Stack Development**
 
