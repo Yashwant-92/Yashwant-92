@@ -1,87 +1,152 @@
-![logo](https://github.com/Yashwant-92/Yashwant-92/blob/main/coder.gif)
-<h1 align="center">Hi 👋, I'm Yashwant Gadkar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashwant-92&label=Profile%20views&color=0e75b6&style=flat" alt="yashwant-92" />
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yashwant%20Gadkar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Angular%20%7C%20Spring%20Boot&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashwant-92" alt="yashwant-92" />
-  </a>
-</p>
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yashwant+%F0%9F%91%8B;Java+Full+Stack+Developer;Angular+%2B+Spring+Boot+Enthusiast;Always+Learning+%F0%9F%9A%80;Currently+exploring+AWS+%26+Docker" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **AWS, Docker**
+<br/>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yashwantgadkar-portfolio.netlify.app/)
-
-- 💬 Ask me about **Java Full Stack Development**
-
-- 📫 How to reach me **yashwantgadkar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yashwant-gadkar-85361a220" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-
+<!-- Profile Badge Row -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwant-92&show_icons=true&locale=en&layout=compact" alt="yashwant-92" />
+  <img src="https://komarev.com/ghpvc/?username=yashwant-92&label=Profile+Views&color=6EE7F7&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/yashwant-92?tab=followers">
+    <img src="https://img.shields.io/github/followers/yashwant-92?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwant-92&show_icons=true&locale=en" alt="yashwant-92" />
-</p>
+</div>
 
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name       : Yashwant Gadkar
+location   : Shegaon, Maharashtra, India 🇮🇳
+role       : Java Full Stack Developer
+education  : MCA
+focus      : Web Applications · REST APIs · UI/UX
+learning   : AWS ☁️  · Docker 🐳
+portfolio  : https://yashwantgadkar-portfolio.netlify.app/
+email      : yashwantgadkar@gmail.com
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### ☕ Backend
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-92" alt="yashwant-92" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### ☁️ Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| 🌡️ [Temperature Converter](https://github.com/Yashwant-92/Temperature-Converter-) | CSS | Unit converter with clean UI |
+| 🏥 [Hospital Management System](https://github.com/Yashwant-92/Hospital_MS) | JavaScript | Full hospital management app |
+| 🎓 [Student Management System](https://github.com/Yashwant-92/Student_Managment_System) | Java | CRUD system for student records |
+| 💰 [Daily Expense Tracker](https://github.com/Yashwant-92/Daily_Expenses_Tracker) | Java | Personal finance tracker |
+| 🚢 [FinalPort](https://github.com/Yashwant-92/FinalPort) | TypeScript | Portfolio project |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashwant-92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwant-92&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwant-92&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7F7&ring=302b63&fire=FF6B6B&currStreakLabel=6EE7F7" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwant-92&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7F7&line=302b63&point=FF6B6B" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashwant-92&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwant-gadkar-85361a220)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6EE7F7?style=for-the-badge&logo=vercel&logoColor=black)](https://yashwantgadkar-portfolio.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwantgadkar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashwant-92)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashwant-92/Yashwant-92/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashwant-92/Yashwant-92/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yashwant-92/Yashwant-92/output/github-snake.svg" />
+</picture>
+
+<br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
